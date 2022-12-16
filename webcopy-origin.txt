@@ -1,0 +1,1320 @@
+Uri: http://ptc.edu.vn/wp-content/uploads/2015/03/FB-cover-photo-Sept-2016.jpg
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-content\uploads\2015\03\FB-cover-photo-Sept-2016.jpg
+Content Type: image/jpeg
+
+Uri: https://edu1.webtudong8giay.com/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/bao-chi-noi-ve-chung-toi/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\bao-chi-noi-ve-chung-toi\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/cam-nhan-hoc-vien/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\cam-nhan-hoc-vien\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/category/tin-tuc/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\category\tin-tuc\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/category/tin-tuc/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\category\tin-tuc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/category/toeic-reading-level-1-100/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\category\toeic-reading-level-1-100\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/category/toeic-reading-level-1-100/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\category\toeic-reading-level-1-100\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/category/toeic-speaking-level-1-100/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\category\toeic-speaking-level-1-100\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/category/toeic-speaking-level-1-100/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\category\toeic-speaking-level-1-100\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/category/toiec-writing-level-1-100/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\category\toiec-writing-level-1-100\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/category/toiec-writing-level-1-100/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\category\toiec-writing-level-1-100\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/category/videos/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\category\videos\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/category/videos/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\category\videos\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/chuong-trinh-ngoai-khoa/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\chuong-trinh-ngoai-khoa\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/comments/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/cuoc-thi-anh-khoanh-khac-ms-hoa-toeic-2017/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\cuoc-thi-anh-khoanh-khac-ms-hoa-toeic-2017\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/cuoc-thi-anh-khoanh-khac-ms-hoa-toeic-2017/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\cuoc-thi-anh-khoanh-khac-ms-hoa-toeic-2017\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/cuoc-thi-truy-tim-cao-thu-toeic-2018-to-chuc-boi-giuseart/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\cuoc-thi-truy-tim-cao-thu-toeic-2018-to-chuc-boi-giuseart\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/cuoc-thi-truy-tim-cao-thu-toeic-2018-to-chuc-boi-giuseart/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\cuoc-thi-truy-tim-cao-thu-toeic-2018-to-chuc-boi-giuseart\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/dang-ky/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\dang-ky\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/dang-ky/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\dang-ky\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/dang-nhap/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\dang-nhap\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/dang-nhap/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\dang-nhap\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/dang-xuat/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\dang-xuat\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/dang-xuat/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\dang-xuat\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/dong-hanh-cung-gala-tuyen-duong-sinh-vien-5-tot-dai-hoc-kinh-te-tp-ho-chi-minh/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\dong-hanh-cung-gala-tuyen-duong-sinh-vien-5-tot-dai-hoc-kinh-te-tp-ho-chi-minh\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/dong-hanh-cung-gala-tuyen-duong-sinh-vien-5-tot-dai-hoc-kinh-te-tp-ho-chi-minh/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\dong-hanh-cung-gala-tuyen-duong-sinh-vien-5-tot-dai-hoc-kinh-te-tp-ho-chi-minh\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/gioi-thieu-ve-chung-toi/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\gioi-thieu-ve-chung-toi\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/he-thong-co-so/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\he-thong-co-so\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/khoa-hoc-tieng-anh-doanh-nghiep/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\khoa-hoc-tieng-anh-doanh-nghiep\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/khoa-hoc-toeic/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\khoa-hoc-toeic\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/lich-khai-giang-da-nang/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\lich-khai-giang-da-nang\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/lich-khai-giang-ha-noi-2/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\lich-khai-giang-ha-noi-2\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/lich-khai-giang-hcm/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\lich-khai-giang-hcm\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/lien-he/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\lien-he\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/ron-rang-giang-sinh-don-mung-nam-moi-tai-ms-hoa-toeic-2017/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\ron-rang-giang-sinh-don-mung-nam-moi-tai-ms-hoa-toeic-2017\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/ron-rang-giang-sinh-don-mung-nam-moi-tai-ms-hoa-toeic-2017/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\ron-rang-giang-sinh-don-mung-nam-moi-tai-ms-hoa-toeic-2017\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/tag/bai-hoc/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\tag\bai-hoc\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/tag/bai-hoc/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\tag\bai-hoc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/tag/writing-skills/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\tag\writing-skills\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/tag/writing-skills/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\tag\writing-skills\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/tai-khoan/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\tai-khoan\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/tai-khoan/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\tai-khoan\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/trang-chu/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\trang-chu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/unit-1-read-a-text-aloud-scoring-guidelines/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-1-read-a-text-aloud-scoring-guidelines\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/unit-1-read-a-text-aloud-scoring-guidelines/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-1-read-a-text-aloud-scoring-guidelines\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/unit-1-thong-tin-chung-ve-ki-nang-thi-toeic-writing-test/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-1-thong-tin-chung-ve-ki-nang-thi-toeic-writing-test\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/unit-1-thong-tin-chung-ve-ki-nang-thi-toeic-writing-test/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-1-thong-tin-chung-ve-ki-nang-thi-toeic-writing-test\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/unit-2-format-cua-phan-i-write-a-sentence-bai-thi-toeic-writing/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-2-format-cua-phan-i-write-a-sentence-bai-thi-toeic-writing\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/unit-2-format-cua-phan-i-write-a-sentence-bai-thi-toeic-writing/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-2-format-cua-phan-i-write-a-sentence-bai-thi-toeic-writing\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/unit-2-thi-qua-khu-don-va-thi-qua-khu-tiep-dien/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-2-thi-qua-khu-don-va-thi-qua-khu-tiep-dien\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/unit-2-thi-qua-khu-don-va-thi-qua-khu-tiep-dien/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-2-thi-qua-khu-don-va-thi-qua-khu-tiep-dien\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/unit-2-thong-tin-chung-ve-ki-nang-thi-toeic-writing-test/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-2-thong-tin-chung-ve-ki-nang-thi-toeic-writing-test\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/unit-2-thong-tin-chung-ve-ki-nang-thi-toeic-writing-test/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-2-thong-tin-chung-ve-ki-nang-thi-toeic-writing-test\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/unit-3-format-cua-phan-ii-response-to-a-written-request-toeic-writing-test/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-3-format-cua-phan-ii-response-to-a-written-request-toeic-writing-test\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/unit-3-format-cua-phan-ii-response-to-a-written-request-toeic-writing-test/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-3-format-cua-phan-ii-response-to-a-written-request-toeic-writing-test\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/unit-3-format-cua-phan-ii-response-to-a-written-request/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-3-format-cua-phan-ii-response-to-a-written-request\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/unit-3-format-cua-phan-ii-response-to-a-written-request/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-3-format-cua-phan-ii-response-to-a-written-request\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/unit-3-mot-so-tu-vung-tieng-anh-trong-cong-viec/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-3-mot-so-tu-vung-tieng-anh-trong-cong-viec\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/unit-3-mot-so-tu-vung-tieng-anh-trong-cong-viec/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-3-mot-so-tu-vung-tieng-anh-trong-cong-viec\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/unit-3-tong-quan-ve-writing-skills/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-3-tong-quan-ve-writing-skills\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/unit-3-tong-quan-ve-writing-skills/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-3-tong-quan-ve-writing-skills\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/unit-4-cach-su-dung-gioi-tu-in-on-trong-cum-tu/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-4-cach-su-dung-gioi-tu-in-on-trong-cum-tu\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/unit-4-cach-su-dung-gioi-tu-in-on-trong-cum-tu/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-4-cach-su-dung-gioi-tu-in-on-trong-cum-tu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/unit-4-format-cua-phan-iii-write-an-opinion-essay-toeic-writing-test/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-4-format-cua-phan-iii-write-an-opinion-essay-toeic-writing-test\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/unit-4-format-cua-phan-iii-write-an-opinion-essay-toeic-writing-test/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-4-format-cua-phan-iii-write-an-opinion-essay-toeic-writing-test\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/unit-4-format-cua-phan-iii-write-an-opinion-essay/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-4-format-cua-phan-iii-write-an-opinion-essay\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/unit-4-format-cua-phan-iii-write-an-opinion-essay/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-4-format-cua-phan-iii-write-an-opinion-essay\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/unit-5-tong-quan-ve-writing-skills/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-5-tong-quan-ve-writing-skills\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/unit-5-tong-quan-ve-writing-skills/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-5-tong-quan-ve-writing-skills\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/unit-5-tu-vung-theo-chu-de-luyen-thi-toeic-may-bay/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-5-tu-vung-theo-chu-de-luyen-thi-toeic-may-bay\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/unit-5-tu-vung-theo-chu-de-luyen-thi-toeic-may-bay/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-5-tu-vung-theo-chu-de-luyen-thi-toeic-may-bay\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/unit-5-writing-skills-cung-cap-thong-tin/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-5-writing-skills-cung-cap-thong-tin\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/unit-5-writing-skills-cung-cap-thong-tin/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-5-writing-skills-cung-cap-thong-tin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/unit-6-mot-so-nhung-cau-noi-cuc-ki-hay/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-6-mot-so-nhung-cau-noi-cuc-ki-hay\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/unit-6-mot-so-nhung-cau-noi-cuc-ki-hay/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-6-mot-so-nhung-cau-noi-cuc-ki-hay\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/unit-6-speaking-skills-hoi-thong-tin/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-6-speaking-skills-hoi-thong-tin\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/unit-6-speaking-skills-hoi-thong-tin/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-6-speaking-skills-hoi-thong-tin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/unit-6-writing-skills-cung-cap-thong-tin/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-6-writing-skills-cung-cap-thong-tin\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/unit-6-writing-skills-cung-cap-thong-tin/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-6-writing-skills-cung-cap-thong-tin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/unit-7-format-cua-phan-ii-response-to-a-written/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-7-format-cua-phan-ii-response-to-a-written\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/unit-7-format-cua-phan-ii-response-to-a-written/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-7-format-cua-phan-ii-response-to-a-written\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/unit-7-mot-so-tu-vung-tieng-anh-trong-cong-viec/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-7-mot-so-tu-vung-tieng-anh-trong-cong-viec\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/unit-7-mot-so-tu-vung-tieng-anh-trong-cong-viec/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-7-mot-so-tu-vung-tieng-anh-trong-cong-viec\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/unit-7-writing-skills-hoi-thong-tin/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-7-writing-skills-hoi-thong-tin\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/unit-7-writing-skills-hoi-thong-tin/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-7-writing-skills-hoi-thong-tin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/unit-8-speaking-skill-yeu-cau/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-8-speaking-skill-yeu-cau\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/unit-8-speaking-skill-yeu-cau/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-8-speaking-skill-yeu-cau\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/unit-8-tu-vung-theo-chu-de-luyen-thi-toeic-thoi-tiet/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-8-tu-vung-theo-chu-de-luyen-thi-toeic-thoi-tiet\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/unit-8-tu-vung-theo-chu-de-luyen-thi-toeic-thoi-tiet/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-8-tu-vung-theo-chu-de-luyen-thi-toeic-thoi-tiet\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/unit-8-writing-skills-yeu-cau/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-8-writing-skills-yeu-cau\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/unit-8-writing-skills-yeu-cau/feed/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\unit-8-writing-skills-yeu-cau\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://edu1.webtudong8giay.com/video/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\video\index.htm
+Content Type: text/html
+
+Uri: https://edu1.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://edu1.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://edu1.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://edu1.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/css/font-awesome.min.css?ver=4.7.0
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://edu1.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edu1.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edu1.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://edu1.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://edu1.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont.woff2
+Content Type: 
+
+Uri: https://edu1.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont.woff
+Content Type: application/x-font-woff
+
+Uri: https://edu1.webtudong8giay.com/wp-content/plugins/related-posts-by-taxonomy/includes/assets/css/styles.css?ver=6.1
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-content\plugins\related-posts-by-taxonomy\includes\assets\css\styles.css
+Content Type: text/css
+
+Uri: https://edu1.webtudong8giay.com/wp-content/plugins/related-posts-by-taxonomy/includes/assets/css/styles.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-content\plugins\related-posts-by-taxonomy\includes\assets\css\styles-1.css
+Content Type: text/css
+
+Uri: https://edu1.webtudong8giay.com/wp-content/themes/flatsome-child/style.css?ver=3.11.3
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-content\themes\flatsome-child\style.css
+Content Type: text/css
+
+Uri: https://edu1.webtudong8giay.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.12
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: https://edu1.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.13.3
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://edu1.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edu1.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://edu1.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://edu1.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/x-font-woff
+
+Uri: https://edu1.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: 
+
+Uri: https://edu1.webtudong8giay.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://edu1.webtudong8giay.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://edu1.webtudong8giay.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://edu1.webtudong8giay.com/wp-content/themes/flatsome/assets/libs/packery.pkgd.min.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-content\themes\flatsome\assets\libs\packery.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://edu1.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-lazy-load/flatsome-lazy-load.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-lazy-load\flatsome-lazy-load.js
+Content Type: application/javascript
+
+Uri: https://edu1.webtudong8giay.com/wp-content/uploads/2018/03/banner1-300x90.jpg
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-content\uploads\2018\03\banner1-300x90.jpg
+Content Type: image/jpeg
+
+Uri: https://edu1.webtudong8giay.com/wp-content/uploads/2018/03/banner1.jpg
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-content\uploads\2018\03\banner1.jpg
+Content Type: image/jpeg
+
+Uri: https://edu1.webtudong8giay.com/wp-content/uploads/2018/03/banner2-1-300x90.jpg
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-content\uploads\2018\03\banner2-1-300x90.jpg
+Content Type: image/jpeg
+
+Uri: https://edu1.webtudong8giay.com/wp-content/uploads/2018/03/banner2-1.jpg
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-content\uploads\2018\03\banner2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://edu1.webtudong8giay.com/wp-content/uploads/2018/03/banner3-300x90.jpg
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-content\uploads\2018\03\banner3-300x90.jpg
+Content Type: image/jpeg
+
+Uri: https://edu1.webtudong8giay.com/wp-content/uploads/2018/03/banner3.jpg
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-content\uploads\2018\03\banner3.jpg
+Content Type: image/jpeg
+
+Uri: https://edu1.webtudong8giay.com/wp-content/uploads/2018/03/button.png
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-content\uploads\2018\03\button.png
+Content Type: image/png
+
+Uri: https://edu1.webtudong8giay.com/wp-content/uploads/2018/03/Khai-giảng-hcm.jpg
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-content\uploads\2018\03\Khai-giảng-hcm.jpg
+Content Type: image/jpeg
+
+Uri: https://edu1.webtudong8giay.com/wp-content/uploads/2018/03/khai-giang-đà-nẵng.jpg
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-content\uploads\2018\03\khai-giang-đà-nẵng.jpg
+Content Type: image/jpeg
+
+Uri: https://edu1.webtudong8giay.com/wp-content/uploads/2018/03/Lịch-khai-giảng-Hà-Nội.jpg
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-content\uploads\2018\03\Lịch-khai-giảng-Hà-Nội.jpg
+Content Type: image/jpeg
+
+Uri: https://edu1.webtudong8giay.com/wp-content/uploads/2018/03/niem-tu-hao-300x150.jpg
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-content\uploads\2018\03\niem-tu-hao-300x150.jpg
+Content Type: image/jpeg
+
+Uri: https://edu1.webtudong8giay.com/wp-content/uploads/2018/03/niem-tu-hao.jpg
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-content\uploads\2018\03\niem-tu-hao.jpg
+Content Type: image/jpeg
+
+Uri: https://edu1.webtudong8giay.com/wp-content/uploads/2018/06/lg-150x150.png
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-content\uploads\2018\06\lg-150x150.png
+Content Type: image/png
+
+Uri: https://edu1.webtudong8giay.com/wp-content/uploads/2018/06/lg.png
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-content\uploads\2018\06\lg.png
+Content Type: image/png
+
+Uri: https://edu1.webtudong8giay.com/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://edu1.webtudong8giay.com/wp-includes/css/dashicons.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://edu1.webtudong8giay.com/wp-includes/css/dashicons.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-includes\css\dashicons.min-1.css
+Content Type: text/css
+
+Uri: https://edu1.webtudong8giay.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://edu1.webtudong8giay.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-includes\css\dist\block-library\style.min-1.css
+Content Type: text/css
+
+Uri: https://edu1.webtudong8giay.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edu1.webtudong8giay.com/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-includes\fonts\dashicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://edu1.webtudong8giay.com/wp-includes/js/comment-reply.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://edu1.webtudong8giay.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://edu1.webtudong8giay.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://edu1.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://edu1.webtudong8giay.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Fbao-chi-noi-ve-chung-toi%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Fbao-chi-noi-ve-chung-toi%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Fcam-nhan-hoc-vien%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Fcam-nhan-hoc-vien%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Fchuong-trinh-ngoai-khoa%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Fchuong-trinh-ngoai-khoa%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Fcuoc-thi-anh-khoanh-khac-ms-hoa-toeic-2017%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-80
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Fcuoc-thi-anh-khoanh-khac-ms-hoa-toeic-2017%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-81
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Fcuoc-thi-truy-tim-cao-thu-toeic-2018-to-chuc-boi-giuseart%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-84
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Fcuoc-thi-truy-tim-cao-thu-toeic-2018-to-chuc-boi-giuseart%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-85
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Fdang-ky%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Fdang-ky%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Fdang-nhap%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-88
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Fdang-nhap%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-89
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Fdang-xuat%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Fdang-xuat%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Fdong-hanh-cung-gala-tuyen-duong-sinh-vien-5-tot-dai-hoc-kinh-te-tp-ho-chi-minh%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-86
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Fdong-hanh-cung-gala-tuyen-duong-sinh-vien-5-tot-dai-hoc-kinh-te-tp-ho-chi-minh%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-87
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Fgioi-thieu-ve-chung-toi%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Fgioi-thieu-ve-chung-toi%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Fhe-thong-co-so%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Fhe-thong-co-so%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Fkhoa-hoc-tieng-anh-doanh-nghiep%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Fkhoa-hoc-tieng-anh-doanh-nghiep%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Fkhoa-hoc-toeic%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Fkhoa-hoc-toeic%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Flich-khai-giang-da-nang%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Flich-khai-giang-da-nang%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Flich-khai-giang-ha-noi-2%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Flich-khai-giang-ha-noi-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Flich-khai-giang-hcm%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Flich-khai-giang-hcm%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Flien-he%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Flien-he%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Fron-rang-giang-sinh-don-mung-nam-moi-tai-ms-hoa-toeic-2017%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-82
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Fron-rang-giang-sinh-don-mung-nam-moi-tai-ms-hoa-toeic-2017%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-83
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Ftai-khoan%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Ftai-khoan%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-1-read-a-text-aloud-scoring-guidelines%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-62
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-1-read-a-text-aloud-scoring-guidelines%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-63
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-1-thong-tin-chung-ve-ki-nang-thi-toeic-writing-test%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-46
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-1-thong-tin-chung-ve-ki-nang-thi-toeic-writing-test%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-47
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-2-format-cua-phan-i-write-a-sentence-bai-thi-toeic-writing%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-44
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-2-format-cua-phan-i-write-a-sentence-bai-thi-toeic-writing%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-45
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-2-thi-qua-khu-don-va-thi-qua-khu-tiep-dien%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-60
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-2-thi-qua-khu-don-va-thi-qua-khu-tiep-dien%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-61
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-2-thong-tin-chung-ve-ki-nang-thi-toeic-writing-test%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-76
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-2-thong-tin-chung-ve-ki-nang-thi-toeic-writing-test%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-77
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-3-format-cua-phan-ii-response-to-a-written-request%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-78
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-3-format-cua-phan-ii-response-to-a-written-request%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-79
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-3-format-cua-phan-ii-response-to-a-written-request-toeic-writing-test%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-42
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-3-format-cua-phan-ii-response-to-a-written-request-toeic-writing-test%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-43
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-3-mot-so-tu-vung-tieng-anh-trong-cong-viec%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-58
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-3-mot-so-tu-vung-tieng-anh-trong-cong-viec%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-59
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-3-tong-quan-ve-writing-skills%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-74
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-3-tong-quan-ve-writing-skills%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-75
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-4-cach-su-dung-gioi-tu-in-on-trong-cum-tu%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-56
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-4-cach-su-dung-gioi-tu-in-on-trong-cum-tu%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-57
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-4-format-cua-phan-iii-write-an-opinion-essay%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-72
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-4-format-cua-phan-iii-write-an-opinion-essay%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-73
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-4-format-cua-phan-iii-write-an-opinion-essay-toeic-writing-test%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-4-format-cua-phan-iii-write-an-opinion-essay-toeic-writing-test%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-5-tong-quan-ve-writing-skills%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-5-tong-quan-ve-writing-skills%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-5-tu-vung-theo-chu-de-luyen-thi-toeic-may-bay%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-54
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-5-tu-vung-theo-chu-de-luyen-thi-toeic-may-bay%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-55
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-5-writing-skills-cung-cap-thong-tin%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-70
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-5-writing-skills-cung-cap-thong-tin%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-71
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-6-mot-so-nhung-cau-noi-cuc-ki-hay%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-52
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-6-mot-so-nhung-cau-noi-cuc-ki-hay%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-53
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-6-speaking-skills-hoi-thong-tin%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-68
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-6-speaking-skills-hoi-thong-tin%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-69
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-6-writing-skills-cung-cap-thong-tin%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-6-writing-skills-cung-cap-thong-tin%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-7-format-cua-phan-ii-response-to-a-written%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-66
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-7-format-cua-phan-ii-response-to-a-written%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-67
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-7-mot-so-tu-vung-tieng-anh-trong-cong-viec%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-50
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-7-mot-so-tu-vung-tieng-anh-trong-cong-viec%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-51
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-7-writing-skills-hoi-thong-tin%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-7-writing-skills-hoi-thong-tin%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-8-speaking-skill-yeu-cau%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-64
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-8-speaking-skill-yeu-cau%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-65
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-8-tu-vung-theo-chu-de-luyen-thi-toeic-thoi-tiet%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-48
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-8-tu-vung-theo-chu-de-luyen-thi-toeic-thoi-tiet%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-49
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-8-writing-skills-yeu-cau%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Funit-8-writing-skills-yeu-cau%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Fvideo%2F
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fedu1.webtudong8giay.com%2Fvideo%2F&format=xml
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/categories/18
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\categories\18
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/categories/5
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\categories\5
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/categories/8
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\categories\8
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/categories/9
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\categories\9
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/pages/1002
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\pages\1002
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/pages/1004
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\pages\1004
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/pages/1009
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\pages\1009
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/pages/1133
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\pages\1133
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/pages/1135
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\pages\1135
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/pages/1139
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\pages\1139
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/pages/1141
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\pages\1141
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/pages/137
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\pages\137
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/pages/2
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/pages/927
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\pages\927
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/pages/931
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\pages\931
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/pages/981
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\pages\981
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/pages/985
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\pages\985
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/pages/988
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\pages\988
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/pages/993
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\pages\993
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/pages/995
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\pages\995
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/pages/997
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\pages\997
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/posts/247
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\posts\247
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/posts/250
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\posts\250
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/posts/253
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\posts\253
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/posts/255
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\posts\255
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/posts/258
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\posts\258
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/posts/267
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\posts\267
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/posts/269
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\posts\269
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/posts/271
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\posts\271
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/posts/435
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\posts\435
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/posts/439
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\posts\439
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/posts/441
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\posts\441
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/posts/445
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\posts\445
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/posts/698
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\posts\698
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/posts/713
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\posts\713
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/posts/715
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\posts\715
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/posts/717
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\posts\717
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/posts/719
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\posts\719
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/posts/721
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\posts\721
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/posts/723
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\posts\723
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/posts/725
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\posts\725
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/posts/736
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\posts\736
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/posts/738
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\posts\738
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/posts/740
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\posts\740
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/posts/742
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\posts\742
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/posts/744
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\posts\744
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/posts/746
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\posts\746
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/posts/748
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\posts\748
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/posts/750
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\posts\750
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/tags/10
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\tags\10
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/wp-json/wp/v2/tags/11
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\wp-json\wp\v2\tags\11
+Content Type: application/json
+
+Uri: https://edu1.webtudong8giay.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:regular%2C700%2Cregular%2C700|Dancing+Script:regular%2Cdefault&display=swap&ver=3.9
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dancingscript/v24/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\s\dancingscript\v24\If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fedu1.webtudong8giay.com%252Fcuoc-thi-anh-khoanh-khac-ms-hoa-toeic-2017%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\login-24.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fedu1.webtudong8giay.com%252Fcuoc-thi-truy-tim-cao-thu-toeic-2018-to-chuc-boi-giuseart%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\login-26.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fedu1.webtudong8giay.com%252Fdong-hanh-cung-gala-tuyen-duong-sinh-vien-5-tot-dai-hoc-kinh-te-tp-ho-chi-minh%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\login-27.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fedu1.webtudong8giay.com%252Fron-rang-giang-sinh-don-mung-nam-moi-tai-ms-hoa-toeic-2017%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\login-25.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fedu1.webtudong8giay.com%252Funit-1-read-a-text-aloud-scoring-guidelines%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\login-15.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fedu1.webtudong8giay.com%252Funit-1-thong-tin-chung-ve-ki-nang-thi-toeic-writing-test%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\login-7.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fedu1.webtudong8giay.com%252Funit-2-format-cua-phan-i-write-a-sentence-bai-thi-toeic-writing%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\login-6.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fedu1.webtudong8giay.com%252Funit-2-thi-qua-khu-don-va-thi-qua-khu-tiep-dien%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\login-14.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fedu1.webtudong8giay.com%252Funit-2-thong-tin-chung-ve-ki-nang-thi-toeic-writing-test%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\login-22.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fedu1.webtudong8giay.com%252Funit-3-format-cua-phan-ii-response-to-a-written-request%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\login-23.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fedu1.webtudong8giay.com%252Funit-3-format-cua-phan-ii-response-to-a-written-request-toeic-writing-test%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\login-5.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fedu1.webtudong8giay.com%252Funit-3-mot-so-tu-vung-tieng-anh-trong-cong-viec%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\login-13.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fedu1.webtudong8giay.com%252Funit-3-tong-quan-ve-writing-skills%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\login-21.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fedu1.webtudong8giay.com%252Funit-4-cach-su-dung-gioi-tu-in-on-trong-cum-tu%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\login-12.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fedu1.webtudong8giay.com%252Funit-4-format-cua-phan-iii-write-an-opinion-essay%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\login-20.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fedu1.webtudong8giay.com%252Funit-4-format-cua-phan-iii-write-an-opinion-essay-toeic-writing-test%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fedu1.webtudong8giay.com%252Funit-5-tong-quan-ve-writing-skills%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fedu1.webtudong8giay.com%252Funit-5-tu-vung-theo-chu-de-luyen-thi-toeic-may-bay%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\login-11.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fedu1.webtudong8giay.com%252Funit-5-writing-skills-cung-cap-thong-tin%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\login-19.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fedu1.webtudong8giay.com%252Funit-6-mot-so-nhung-cau-noi-cuc-ki-hay%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\login-10.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fedu1.webtudong8giay.com%252Funit-6-speaking-skills-hoi-thong-tin%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\login-18.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fedu1.webtudong8giay.com%252Funit-6-writing-skills-cung-cap-thong-tin%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fedu1.webtudong8giay.com%252Funit-7-format-cua-phan-ii-response-to-a-written%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\login-17.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fedu1.webtudong8giay.com%252Funit-7-mot-so-tu-vung-tieng-anh-trong-cong-viec%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\login-9.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fedu1.webtudong8giay.com%252Funit-7-writing-skills-hoi-thong-tin%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fedu1.webtudong8giay.com%252Funit-8-speaking-skill-yeu-cau%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\login-16.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fedu1.webtudong8giay.com%252Funit-8-tu-vung-theo-chu-de-luyen-thi-toeic-thoi-tiet%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\login-8.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fedu1.webtudong8giay.com%252Funit-8-writing-skills-yeu-cau%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\font-awesome\4.7.0\css\font-awesome.min-1.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\edu1.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+

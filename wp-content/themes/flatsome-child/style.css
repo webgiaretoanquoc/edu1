@@ -1,0 +1,276 @@
+/*
+Theme Name: Flatsome Child
+Description: NamKiem developed for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.11.3
+*/
+
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+
+
+
+.header-top{margin: 0 auto;
+	background-image: url(wp-content/uploads/2019/08/quang_caotop-1.png);
+	background-repeat: no-repeat;
+	width: 100%;
+	background-position: inherit;
+	background-size: contain;}
+.slogan-header{    font-family: 'Roboto Condensed', sans-serif;
+	line-height: 1.8em;
+	text-align: center;
+	color: #ff0000;
+	font-size: 33px;
+	font-weight: 700;}
+.header-nav li > a {font-weight: normal;
+	text-transform: none;
+	font-size: 15px;
+	letter-spacing: 0;
+	color: gray;}
+.button span{font-weight: normal; letter-spacing: 0; font-size: 15px}
+.nav-dropdown{padding:0;     border: 1px solid #e2e2e2; color: #3a3a3a;     margin-left: 14px;}
+.nav-spacing-xlarge>li{margin:0}
+.nav-spacing-xlarge>li a{padding-left:12px; padding-right: 12px;     line-height: 23px;}
+.nav-spacing-xlarge>li a:hover{background: #efefef}
+#main{background-color: #f3f7fa;}
+.section-slider .grid-col{}
+.section-body .cot4 .tieu-de, .folder-niem-tu-hao{height: 40px; background: #b70f1e; padding-left: 10px; color: white ; padding-top: 9px; border-top-left-radius: 4px; border-top-right-radius: 4px}
+.section-body .cot4 .tieu-de span{line-height:25px}
+.section-body .cot4 .sidebar-wrapper{background: white;}
+.section-body .cot4 .sidebar-wrapper .widget_nav_menu{margin-left: 25px}
+.section-body .cot4 .sidebar-wrapper .widget_nav_menu ul li{list-style: circle; color: green}
+.section-body .cot4 .sidebar-wrapper .widget_nav_menu ul li a{font-size: 16px; color: #424242}
+.section-body .cot4 .sidebar-wrapper .widget_nav_menu ul li a:hover{color: green}
+.box-blog-post .is-divider{display: none}
+.section-body .cot8 .tabbed-content .tab-panels .post-item .box-text{padding: 10px 5px; height: 75px;
+	overflow: hidden; }
+.section-body .cot8 .tabbed-content .nav-tabs+.tab-panels{padding:18px}
+.section-body .cot8 .tabbed-content .tab-panels .post-item .box-text h5{font-size: 15px; font-weight: normal; color: #3e3e3e}
+.section-body .cot8 .tabbed-content .nav-tabs li a{font-size: 15px; font-weight: normal}
+.section-body .cot8 .tabbed-content h4{margin-bottom: 20px;
+	font-size: 23px;
+	color: #aa0202;
+	text-transform: none;
+	letter-spacing: 0;}
+.form-lien-he{text-align:center; margin-top: 9px; border-radius: 4px;    background: #0794DE;
+	padding: 20px;}
+.form-lien-he h3{ text-align: center;
+	color: white;
+	border-bottom: 1px solid white;
+	padding-bottom: 5px;
+	margin-bottom: 18px;}
+.wpcf7{color: white}
+.wpcf7 .wpcf7-form-control-wrap{text-align: left}
+.form-lien-he input[type='submit']:not(.is-form){    margin: 0;
+	border-radius: 4px;
+	margin-top: 5px; background: #86c52e}
+.niem-tu-hao-1{background:#b70f1e; padding: 10px; display: block; position: relative}
+.diem-so{font-weight: bold; margin-top: 13px; width: 20%; float: left; padding: 5px; text-align: center; color:yellow}
+.info{width: 80%; float: right; padding: 5px;}
+.clearboth{clear: both}
+.section-body .cot4 .img:not(:last-child){margin-bottom:0}
+.info .name{ margin-bottom: 0;
+	color: white;}
+.info .sub-info{    font-size: 13px;
+	color: #c7c7c7;}
+.niem-tu-hao-1 p, .niem-tu-hao p{margin-bottom:0}
+.niem-tu-hao-1:before{content: "";
+	width: 0;
+	height: 0;
+	position: absolute;
+	bottom: 100%;
+	left: 46%;
+	border-width: 0 12px 16px 12px;
+	border-style: solid;
+	border-color: rgb(183, 15, 30) transparent}
+.niem-tu-hao{padding: 10px; border-bottom: 1px dashed #cecece; background: white}
+
+.niem-tu-hao .diem-so{font-weight: bold;
+	margin-top: 13px;
+	width: 20%;
+	float: left;
+	padding: 5px;
+	text-align: center;
+	color: #b70f1e;}
+.niem-tu-hao .name{color: #545454}
+.niem-tu-hao .sub-info{color: gray}
+.niem-tu-hao-1 a{color: white;}
+.niem-tu-hao a{color: #1d1d1d}
+.section-body .cot8 .tieu-de{margin-top: 22px; font-weight: bold;
+	background: white;
+	padding: 5px;
+	padding-left: 10px;
+	color: #b70f1e;
+	font-size: 20px;}
+.section-body .cot8 .post-item .box-text{text-align: left}
+.section-body .cot8 .post-item .box-text .post-title, .section-body .cot8 .tieu-diem .post-item .box-text .post-title, .section-body .cot4 .tieu-diem .post-item .box-text .post-title{font-size: 15.5px; font-weight: normal; color: black}
+.section-body .cot4 .tieu-diem .post-item{margin-right:8px;
+	padding-bottom: 0;
+	margin-left: 8px;
+	padding-top: 10px;}
+.tai-lieu-luyen-thi ul li a{font-size: 15px; color: #5d5d5d; line-height: 20px; padding: 10px 0}
+.tai-lieu-luyen-thi ul li a:hover{color: #b20000}
+.tai-lieu-luyen-thi .widget_nav_menu .widgettitle{font-size: 18px; padding-top: 20px}
+.tai-lieu-luyen-thi .widget_nav_menu{margin-left:0}
+.tai-lieu-luyen-thi{background: white}
+.tai-lieu-luyen-thi .widget_nav_menu ul li{background: url(../../uploads/2018/03/button.png);
+	background-repeat: no-repeat; padding-left: 28px;}
+.bao-chi .row .col{padding-bottom:0}
+.footer-menu-2{height: 45px;display: block; width: 100%; position: relative;
+	margin: 0 auto;
+	background: white;}
+
+.footer-menu-2 .menu-inner{     max-width: 1170px;background: #e7e5e5;
+	height: 100%;
+	margin: 0 auto;
+	padding-left: 15px;
+	padding-right: 15px;}
+.footer-menu-2 .menu-inner li{list-style: none; float: left; margin: 0;
+	line-height: 43px; position: relative}
+.footer-menu-2 .menu-inner li a{padding: 13px 15px; font-size: 15px}
+.footer-menu-2 .menu-inner  .sub-menu{display: none;
+	position: absolute;
+	top: 45px;
+	left: 0;
+	min-width: 246px;
+	z-index: 999999;
+	background-color: #fff;
+	padding: 0px;
+	margin: 0;}
+.footer-menu-2 .menu-inner li .sub-menu li{float:none; display: block}
+.footer-menu-2 .menu-inner li a:hover{color: #aa0202; background: #efefef}
+.footer-menu-2 .menu-inner li:hover>.sub-menu{display: block}
+.footer-menu-2 .menu-inner li .sub-menu li a{display: block; padding: 0px 15px;}
+.footer-wrapper{margin-top: 15px}
+.duong_dan_breadcrumb{display: block; padding-left: 10px;
+	margin: 0;
+	background: #f5f5f5;
+	line-height: 40px;
+	margin-top: 15px;
+}
+.duong_dan_breadcrumb li a{
+	display: inline-block;
+	white-space: nowrap;
+	font-size: 14px;
+	color: #288ad6; 
+	padding: 0 10px 0 0;
+}
+.duong_dan_breadcrumb li{line-height: 23px;
+	display: inline-block;
+	vertical-align: middle;
+	overflow: hidden;
+	font-size:14px; margin-bottom:0;     color: #424242;
+} 
+.duong_dan_breadcrumb span{
+	display: inline-block;
+	font-size: 14px;
+	color: #999; 
+	line-height: 1;
+	padding-right: 7px;}
+.blog-single .row{background: white}
+.is-divider{    height: 1px;
+	display: block;
+	background-color: rgba(0,0,0,0.1);
+	margin: 5px 0 5px;
+	width: 100%;max-width: 100%}
+.entry-category{display: none}
+.info-tieu-de{display: inline-block; width: 100%; }
+
+.info-tieu-de .date-update a{color: #8a8a8a}
+.luot-xem{padding-right: 20px}
+
+.info-tieu-de .danh-muc a{color: #8a8a8a}
+.article-inner .entry-image img, .article-inner .badge.post-date{display: none}
+.article-inner .entry-header-text{padding-bottom: 10px}
+.article-inner .entry-content{padding-top: 5px}
+.blog-share .social-icons{padding-top: 15px}
+.circle{border-radius: 0px !important; border: 1px solid gray !important}
+footer.entry-meta{font-size:15px}
+footer.entry-meta .bottom-post-cat{display: block;}
+footer.entry-meta .bottom-post-tag{display: block; margin-top: 10px}
+footer.entry-meta .bottom-post-tag a{background: #e7e5e5; padding: 5px 10px; border-radius: 4px; color: gray}
+footer.entry-meta .bottom-post-tag a:hover{background: #b20000; color: white}
+.title-post-lien-quan{margin-top: 15px}
+.list-news{display: inline-table}
+.list-news li:first-child{width: 22%;
+	margin-right: 15px;
+	float: left;
+	list-style: none;
+	margin-left: 0;}
+.list-news li:last-child{width: 22%;
+	margin-left: 15px;
+	float: right;
+	list-style: none;
+	margin-right: 0;}
+.list-news li{width: 22%;
+	margin-left: 15px;
+	margin-right: 14px;
+	float: left;
+	list-style: none;}
+.list-news li .item-list h4{margin-top: 10px; line-height: 19px}
+.list-news li .item-list a{    font-size: 15px;
+	font-weight: bold;color: #5d5d5d}
+.page-wrapper .row{background: white}
+.page-wrapper{padding-top: 15px;
+	padding-bottom: 15px;}
+#crumbs{margin-bottom:0}
+.page-inner{margin-top: 20px}
+.header-block .col{padding-bottom:0}
+.date-update{padding-right:20px; color: #8a8a8a}
+.page-wrapper .info-tieu-de{margin-top:10px; font-size: 14px; color: #8a8a8a}
+h1.entry-title.mb{margin-bottom: 20px; text-transform: none; letter-spacing: 0}
+.page-wrapper .block-in-page{padding-left:0; padding-right:0}
+.page-wrapper .block-in-page .post-item, .page-wrapper .block-in-page .cot8 .post-item .box-text{padding-bottom:10px}
+.article-inner .entry-title{margin-bottom:0; margin-top: 10px}
+.page-inner .post-item{padding-bottom:0}
+.blog-archive .row-large{padding-top:15px}
+.textwidget .section-slider, .textwidget .section-body{padding-left:0; padding-right:0; }
+.blog-single .post-sidebar{padding-left:0}
+.page-wrapper .large-4{padding-left:7px}
+.blog-archive .post-sidebar .textwidget .section-slider{padding-top:0 !important}
+.post a{color: #b70f1e}
+.new-img{height: 124px}
+.new-img img{height: 100%; max-width: auto}
+.meta-related ul li a{font-size: 14px;}
+.meta-related ul li{margin-bottom:4px}
+.page-wrapper .large-12{margin-top:20px}
+div.uimob800 .um-account-main{width: 90%;
+	max-width: 100%;}
+
+.mobile-hotline{display:none}
+
+.hotline {position: fixed;
+	left: 10px;
+	bottom: 10px;
+	z-index: 9000;
+	display: block;
+	background: #fac100;
+	color: red;
+	padding-top: 5px;padding-bottom:5px; padding-left:12px; padding-right: 12px;
+	border-radius: 8px;}
+.hotline .hotline-number{font-size:20px; color: #b20000; font-weight: bold}
+
+@media only screen and (max-width: 48em) {
+	/*************** ADD MOBILE ONLY CSS HERE  ***************/
+	.list-news li{    width: 47% !important;
+		margin-left: 5px !important;
+		margin-right: 5px !important;}
+	.header-top{background-size: cover !important}
+	.grid-big{display: none}
+	.section-body .cot8 .tabbed-content .tab-panels .post-item .box-text{width: 73%; float: left}
+	.section-body .cot8 .tabbed-content .tab-panels .post-item .box-image{width:22%; float: left; margin-right: 10px}
+	.section-body .cot8 .tabbed-content .tab-panels .post-item{padding-bottom: 0}
+	.section-body .cot8 .tabbed-content .nav li{    width: 24.5%;
+		float: left;}
+	.section-body .cot8 .tabbed-content .nav-tabs li a{text-align: center}
+	.section-body .cot8 .tin-toeic .post-item{flex-basis: 49% !important;
+		float: left;}
+	.section-body .cot4 .tieu-diem .post-item{flex-basis: 50% !important;
+		float: left;
+		margin-right: 0 !important;
+		padding-bottom: 0;
+		margin-left: 0 !important;
+		padding-top: 10px;}
+	.header-block-block-2{width:100%}
+}
